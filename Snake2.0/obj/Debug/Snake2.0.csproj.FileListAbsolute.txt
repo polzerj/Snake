@@ -1,0 +1,7 @@
+C:\Daten\Johannes\SCHOOL\SEW\polzerj\Snake2.0\Snake2.0\bin\Debug\Snake2.0.exe.config
+C:\Daten\Johannes\SCHOOL\SEW\polzerj\Snake2.0\Snake2.0\bin\Debug\Snake2.0.exe
+C:\Daten\Johannes\SCHOOL\SEW\polzerj\Snake2.0\Snake2.0\bin\Debug\Snake2.0.pdb
+C:\Daten\Johannes\SCHOOL\SEW\polzerj\Snake2.0\Snake2.0\obj\Debug\Snake2.0.csproj.CoreCompileInputs.cache
+C:\Daten\Johannes\SCHOOL\SEW\polzerj\Snake2.0\Snake2.0\obj\Debug\Snake2.0.exe
+C:\Daten\Johannes\SCHOOL\SEW\polzerj\Snake2.0\Snake2.0\obj\Debug\Snake2.0.pdb
+C:\Daten\Johannes\SCHOOL\SEW\polzerj\Snake2.0\Snake2.0\obj\Debug\Snake2.0.csprojAssemblyReference.cache
