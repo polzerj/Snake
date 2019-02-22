@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Einstellungen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OldSmiley>false</OldSmiley>
+  <Sound>true</Sound>
+  <Autorun>true</Autorun>
+  <Spielfeldgroeße>30</Spielfeldgroeße>
+</Einstellungen>
